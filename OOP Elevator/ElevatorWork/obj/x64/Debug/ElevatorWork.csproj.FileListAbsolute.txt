@@ -1,0 +1,5 @@
+C:\Users\dbzjr\Desktop\Assignment\Year 2\OOP\ElevatorWork\ElevatorWork\obj\x64\Debug\ElevatorWork.csproj.AssemblyReference.cache
+C:\Users\dbzjr\Desktop\Assignment\Year 2\OOP\ElevatorWork\ElevatorWork\obj\x64\Debug\ElevatorWork.Form1.resources
+C:\Users\dbzjr\Desktop\Assignment\Year 2\OOP\ElevatorWork\ElevatorWork\obj\x64\Debug\ElevatorWork.Properties.Resources.resources
+C:\Users\dbzjr\Desktop\Assignment\Year 2\OOP\ElevatorWork\ElevatorWork\obj\x64\Debug\ElevatorWork.csproj.GenerateResource.cache
+C:\Users\dbzjr\Desktop\Assignment\Year 2\OOP\ElevatorWork\ElevatorWork\obj\x64\Debug\ElevatorWork.csproj.CoreCompileInputs.cache
